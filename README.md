@@ -20,10 +20,3 @@ I am a student at the Technical University in Košice, specializing in computer 
 ## 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-mykhailyshyn-240a28194/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saneck2150@gmail.com)
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr_Mykhailyshyn&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr_Mykhailyshyn&layout=compact&theme=dark)
-
-## 🔥 Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oleksandr_Mykhailyshyn&theme=dark)
