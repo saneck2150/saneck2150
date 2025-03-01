@@ -4,7 +4,7 @@ I am a student at the Technical University in Košice, specializing in computer 
 
 ## 📌 About Me:
 - 💻 I specialize in **C++ (C++17/20), Python, CMake, Qt6, SQL, and Git**.
-- 🔍 I enjoy solving algorithmic challenges and working on **high-performance and security-focused applications**.
+- 🔍 I enjoy working on **high-performance and Linux open-sourse apps**.
 - 🎨 In my free time, I like **designing UI/UX in Qt, exploring system programming, and contributing to open-source projects**.
 - 🚀 I am always open to **collaborations** and **new opportunities**!
 
@@ -15,3 +15,4 @@ I am a student at the Technical University in Košice, specializing in computer 
 ![Qt6](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
