@@ -4,7 +4,7 @@ I am a student at the Technical University in Košice, specializing in computer 
 
 ## 📌 About Me:
 - 💻 I specialize in **C++ (C++17/20), Python, CMake, Qt6, SQL, and Git**.
-- 🔍 I enjoy working on **high-performance and Linux open-sourse apps**.
+- 🔍 I enjoy working on **high-performance and UI apps**.
 - 🎨 In my free time, I like **designing UI/UX in Qt, exploring system programming, and contributing to open-source projects**.
 - 🚀 I am always open to **collaborations** and **new opportunities**!
 
