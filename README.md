@@ -1,5 +1,3 @@
-# Oleksandr_Mykhailyshyn
-
 # Hi! 👋
 
 I am a student at the Technical University in Košice, specializing in computer science. At the moment I have already received my bachelor's degree in automotive electronics, and I will receive my master's degree in informatics. I am interested in developing different kinds of SW in C++ and Python and have experience with open source projects in this field for about a year. 
