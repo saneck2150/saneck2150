@@ -1,8 +1,8 @@
 # Oleksandr_Mykhailyshyn
 
-# Привет! 👋
+# Hi! 👋
 
-Я **ТВОЁ ИМЯ**, разработчик, увлеченный созданием инновационных решений и изучением мира программирования.
+I am a student at the Technical University in Košice, specializing in computer science. At the moment I have already received my bachelor's degree in automotive electronics, and I will receive my master's degree in informatics. I am interested in developing different kinds of SW in C++ and Python and have experience with open source projects in this field for about a year. 
 
 ## 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
