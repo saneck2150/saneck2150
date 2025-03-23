@@ -18,7 +18,7 @@ I am a student at the Technical University in Košice, specializing in computer 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!-- Optional: Top languages -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saneck2150&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
