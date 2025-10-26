@@ -1,15 +1,16 @@
 # Hi! 👋
 
-I am a student at the Technical University in Košice, specializing in computer science. At the moment I have already received my bachelor's degree in automotive electronics, and I will receive my master's degree in informatics. I am interested in developing different kinds of SW in C++ and Python and have experience with open source projects in this field for about a year. 
+I am ROS developer from Slovakia, specializing in modern C++ aps and ROS. I am interested in developing different kinds of SW in C++, Python and open source projects in this fields. 
 
 ## 📌 About Me:
-- 💻 I specialize in **C++ (C++17/20), Python, CMake, Qt6, SQL, and Git**.
+- 💻 I specialize in **C++ (C++17/20), Python, ROS Noetic, CMake, Qt6, SQL, and Git**.
 - 🔍 I enjoy working on **high-performance and cross platform apps**.
-- 🎨 In my free time, I like **designing UI/UX in Qt, exploring system programming, and contributing to open-source projects**.
-- 🚀 I am always open to **collaborations** and **new opportunities**!
+- 🎨 In my free time, I like **contributing to open-source projects and doing/creating tasks for CodeWars**.
+- 🚀 I am always open to **collaborations** and seeking **new opportunities**!
 
 ## 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Qt6](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
