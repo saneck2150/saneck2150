@@ -7,7 +7,7 @@ I am ROS developer from Slovakia, specializing in modern C++ aps and ROS. I am i
 - 🔍 I enjoy working on **high-performance and cross platform apps**.
 - 🎨 In my free time, I like **contributing to open-source projects and doing/creating tasks for CodeWars**.
 - 🚀 I am always open to **collaborations** and seeking **new opportunities**!
-- 🪪 My badge: ![](https://www.codewars.com/users/saneck21500/badges/micro)
+- 🪪 My badge: ![https://www.codewars.com/users/saneck_2150/badges/small]
 
 ## 🛠 Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
