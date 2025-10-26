@@ -5,7 +5,7 @@ I am ROS developer from Slovakia, specializing in modern C++ aps and ROS. I am i
 ## 📌 About Me:
 - 💻 I specialize in **C++ (C++20/23), Python, ROS Noetic, CMake, Qt6, SQL, and Git**.
 - 🔍 I enjoy working on **high-performance and cross platform apps**.
-- 🎨 In my free time, I like **contributing to open-source projects and doing/creating tasks for CodeWars**.
+- 🎨 In my free time, I like **contributing to open-source projects and doing/creating tasks for CodeWars**./
 ![](https://www.codewars.com/users/saneck21500/badges/micro)
 - 🚀 I am always open to **collaborations** and seeking **new opportunities**!
 
