@@ -1,0 +1,41 @@
+name: Update README stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 03:17 UTC
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=saneck2150&layout=compact&theme=tokyonight
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+
+          git commit -m "Update GitHub language stats"
+          git push
