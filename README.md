@@ -19,10 +19,7 @@ I am SW developer from Slovakia, specializing in modern C++ aps and ROS. I am in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Optional: Top languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saneck2150&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![Top Languages](./profile/top-langs.svg)
 
 ## 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-mykhailyshyn-240a28194/)
